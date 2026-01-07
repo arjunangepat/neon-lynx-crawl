@@ -20,7 +20,7 @@ const LandingPage: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1524758617079-d25111d3f3b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Placeholder image
+              src="https://images.unsplash.com/photo-1620712985448-f3110f16e309?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Updated placeholder image
               alt="Playschool classroom"
               className="w-full h-64 object-cover"
             />
