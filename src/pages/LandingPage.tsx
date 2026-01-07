@@ -20,7 +20,7 @@ const LandingPage: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1620712985448-f3110f16e309?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Updated placeholder image
+              src="https://images.pexels.com/photos/317355/pexels-photo-317355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" // Updated placeholder image
               alt="Playschool classroom"
               className="w-full h-64 object-cover"
             />
@@ -33,7 +33,7 @@ const LandingPage: React.FC = () => {
           </div>
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1593079852977-041604325362?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Placeholder image
+              src="https://images.pexels.com/photos/7965750/pexels-photo-7965750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" // Updated placeholder image
               alt="Playschool playground"
               className="w-full h-64 object-cover"
             />
